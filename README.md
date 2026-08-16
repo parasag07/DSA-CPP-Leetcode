@@ -50,6 +50,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
