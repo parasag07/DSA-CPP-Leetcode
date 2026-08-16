@@ -32,12 +32,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0733-flood-fill) |
 ## Stack
 |  |
@@ -81,4 +84,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0394-decode-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
