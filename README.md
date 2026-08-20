@@ -6,11 +6,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -20,6 +22,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -91,4 +94,8 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0542-01-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
