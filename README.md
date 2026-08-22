@@ -7,6 +7,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0394-decode-string) |
@@ -75,6 +78,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -98,4 +102,9 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
