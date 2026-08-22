@@ -10,6 +10,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0098-validate-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0700-search-in-a-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/parasag07/DSA-CPP-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
